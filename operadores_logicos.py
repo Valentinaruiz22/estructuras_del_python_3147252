@@ -42,3 +42,5 @@ print(" El resultado de operar con jerarquia de operadores es" ,y)
 
 
 
+#Ejemplo 5: operadores relacionales y logicos
+y= not 3 > 4 and 4 == 4 or 3 < 2
